@@ -54,3 +54,10 @@ build/
 *.zip
 *.tar.gz
 *.rar
+
+# virtual env
+env
+venv
+
+# DB
+tasks.db
