@@ -4,6 +4,8 @@ This is a standalone cross-platform application for time tracking. You can eithe
 
 ## **Download the Executable**
 
+![time_tracker](https://github.com/user-attachments/assets/0e129067-5baf-48e3-b19f-d8eeaba23cef)
+
 The latest release of the app is available here:
 
 [**Download the Executable**](https://github.com/sheydHD/Time-tracker/releases/tag/v1.0)
